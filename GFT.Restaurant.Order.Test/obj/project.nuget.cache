@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lc3+bOU3PzmvJohbZAjenx8oMMt7+05E3jRMrBqQoeFKlH5bazuvjQ13z70FHW651zglyuJd5LQYbVAge61hrA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\User\\Documents\\felipe\\gft\\GFT.Restaurant.Order.Test\\GFT.Restaurant.Order.Test.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "O projeto GFT.Restaurant.Order não é compatível com netcoreapp3.1 (.NETCoreApp,Version=v3.1). O projeto GFT.Restaurant.Order dá suporte a: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "GFT.Restaurant.Order",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
